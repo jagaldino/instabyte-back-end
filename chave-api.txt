@@ -1,1 +1,7 @@
 AIzaSyDkD6Y8ViP6-laJyfdFABNcxjarX2HZ6to
+
+banco de dados
+usuario: jagaldino
+senha: TFMi7sUSwbnTAVuV
+
+mongodb+srv://jagaldino:TFMi7sUSwbnTAVuV@cluster0.djbjz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
